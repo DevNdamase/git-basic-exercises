@@ -1,0 +1,592 @@
+    1  git pull
+    2  ls
+    3  cd portfolio-webpage/
+    4  ls
+    5  git status
+    6  git add .
+    7  git commit -m "style: add css styles to the webpage"
+    8  git status
+    9  git push
+   10  git pull
+   11  history 
+   12  systemctl poweroff
+   13  cd Demo
+   14  ls
+   15  cd Desktop/
+   16  ls
+   17  cd DemoFolder/
+   18  ls
+   19  cd ..
+   20  cd Demo
+   21  ls
+   22  cd moz-js-tut/
+   23  ls
+   24  touch script.js
+   25  ls
+   26  cd
+   27  history 
+   28  systemctl poweroff
+   29  ls
+   30  !
+   31  history 
+   32  ls
+   33  systemctl poweroff
+   34  sudo apt update && sudo apt upgrade
+   35  history 
+   36  systemctl poweroff
+   37  systemctl reboot
+   38  systemctl poweroff
+   39  history 
+   40  sudo apt update && sudo apt upgrade
+   41  systemctl poweroff
+   42  systemctl reboot
+   43  systemctl poweroff
+   44  sudo apt update && sudo apt upgrade
+   45  systemctl poweroff
+   46  ls
+   47  cd Programming/
+   48  ls
+   49  mkdir git-profile
+   50  ls
+   51  cd git-profile/
+   52  ls
+   53  git clone git@github.com:DevNdamase/DevNdamase.git
+   54  ls
+   55  cd DevNdamase/
+   56  ls
+   57  git status
+   58  mkdir images
+   59  ls
+   60  git status
+   61  git add .
+   62  git status
+   63  git commit -m "chore: update README.md"
+   64  git status
+   65  git push
+   66  git status
+   67  cd
+   68  history 
+   69  systemctl poweroff
+   70  cd mdn-tut/
+   71  touch index.html app.js
+   72  cd
+   73  systemctl poweroff
+   74  node -v
+   75  systemctl poweroff
+   76  history 
+   77  sudo apt update && sudo apt upgrade
+   78  systemctl poweroff
+   79  systemctl reboot
+   80  systemctl poweroff
+   81  systemctl reboot
+   82  systemctl poweroff
+   83  sudo apt update && sudo apt upgrade
+   84  systemctl poweroff
+   85  systemctl reboot
+   86  systemctl poweroff
+   87  node -v
+   88  systemctl poweroff
+   89  systemctl reboot
+   90  systemctl poweroff
+   91  systemctl reboot
+   92  sudo apt update && sudo apt upgrade
+   93  systemctl poweroff
+   94  node -v
+   95  systemctl poweroff
+   96  systemctl poweroff -i
+   97  sudo apt update && sudo apt upgrade
+   98  sudo apt autoremove
+   99  sudo apt update
+  100  systemctl restart
+  101  systemctl reboot
+  102  systemctl poweroff
+  103  ls
+  104  whoami
+  105  pwd
+  106  systemctl poweroff
+  107  systemctl reboot
+  108  systemctl poweroff
+  109  history 
+  110  sudo apt update && sudo apt upgrade
+  111  systemctl poweroff
+  112  sudo apt update && sudo apt upgrade
+  113  sudo apt autoremove
+  114  sudo apt update && sudo apt upgrade
+  115  shutdown -h 01:40
+  116  systemctl poweroff
+  117  systemctl reboot
+  118  history 
+  119  shutdown -h 01:40
+  120  shutdown --show
+  121  shutdown -c
+  122  shutdown -show
+  123  shutdown --help
+  124  man shutdown 
+  125  shutdown -c
+  126  shutdown -P 03:30
+  127  shutdown -c
+  128  sudo shutdown -P 03:30
+  129  tree
+  130  systemctl poweroff
+  131  sudo fdisk -l
+  132  sudo umount /dev/sdb
+  133  sudo wipefs --all /dev/sdb
+  134  sudo umount /dev/sdb
+  135  sudo umount /dev/sdb1
+  136  sudo wipefs --all /dev/sdb
+  137  sudo umount /dev/sdb1
+  138  sudo wipefs --all /dev/sdb
+  139  sudo umount /dev/sdb
+  140  sudo umount /dev/sdb1
+  141  sudo wipefs --all /dev/sdb
+  142  sudo umount /dev/sdb
+  143  sudo umount /dev/sdb1
+  144  sudo wipefs --all /dev/sdb1
+  145  sudo umount /dev/sdb
+  146  sudo wipefs --all /dev/sdb
+  147  sudo umount /dev/sdb
+  148  sudo fdisk -l
+  149  sudo umount /dev/sdb1
+  150  sudo wipefs --all /dev/sdb
+  151  systemctl poweroff
+  152  history 
+  153  sudo apt update && sudo apt upgrade
+  154  systemctl poweroff
+  155  history 
+  156  sudo apt update && sudo apt upgrade
+  157  systemctl poweroff
+  158  sudo apt update && sudo apt upgrade
+  159  systemctl poweroff
+  160  sudo apt install curl
+  161  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.0/install.sh | bash
+  162  source ~/.bashrc
+  163  nvm install --lts
+  164  node -v npm -v
+  165  node -v 
+  166  pwd
+  167  ls
+  168  cd Desktop/
+  169  ls
+  170  mkdir node-demo-project
+  171  pdw
+  172  pwd
+  173  ls
+  174  cd node-demo-project/
+  175  ls
+  176  npm init -y
+  177  vim app.js
+  178  node app.js
+  179  cd Programming/
+  180  ls
+  181  cd umuzi/
+  182  touch important.md
+  183  history 
+  184  systemctl poweroff
+  185  history 
+  186  sudo apt update && sudo apt upgrade
+  187  systemctl poweroff
+  188  touch task1.js
+  189  pwd
+  190  ls
+  191  cd Programming/
+  192   cd umuzi/
+  193  ls
+  194  node task1.js
+  195  node task1.js
+  196  task1.js
+  197  pwd
+  198  task1.js
+  199  node task1.js
+  200  touch task1();
+  201  task1();
+  202  cd Programming/
+  203  cd umuzi/
+  204  ls
+  205  node task1.js 
+  206  ls
+  207  cd..
+  208  cd.
+  209  cd ..
+  210  ls
+  211  cd Desktop/
+  212  ls
+  213  cd node-demo-project/
+  214  ls
+  215  app.js
+  216  node app.js
+  217  cd
+  218  history 
+  219  cd Programming/
+  220  cd umuzi/
+  221  ls
+  222  node task1.js
+  223  systemctl poweroff
+  224  cd Desktop/
+  225  ls
+  226  cd Demo
+  227  ls
+  228  cs js-practice/
+  229  cd js-practice/
+  230  touch factorial.js
+  231  node factorial.js
+  232  touch reverse-stir.js
+  233  node reverse-stir.js 
+  234  touch longest-word.js
+  235  cd
+  236  cd Programming/
+  237  ls
+  238  cd umuzi/
+  239  ls
+  240  touch task2.js
+  241  ls
+  242  node task2.js 
+  243  touch task3.js 
+  244  ls
+  245  node task3.js 
+  246  ls
+  247  task4.js
+  248  touch task4.js
+  249  ls
+  250  touch task5.js
+  251  ls
+  252  node task5.js 
+  253  touch task6.js
+  254  ls
+  255  node task6.js 
+  256  touch task7.js
+  257  ls
+  258  node task7.js 
+  259  touch task8.js
+  260  node task8.js 
+  261  cd
+  262  history 
+  263  systemctl poweroff
+  264  pwd
+  265  cd
+  266  pwd
+  267  cd Demo
+  268  ls
+  269  Desktop/
+  270  ls
+  271  cd Desktop/
+  272  ls
+  273  cd Demo
+  274  ls
+  275  cd js-practice/
+  276  ls
+  277  node factorial.js 
+  278  node factorial.js
+  279  pwd
+  280  node reverse-stir.js
+  281  systemctl poweroff
+  282  cd Programming/
+  283  ls
+  284  cd umuzi/
+  285  ls
+  286  touch task9.js
+  287  node task8.js 
+  288  node task9.js 
+  289  node task9.js
+  290  systemctl poweroff
+  291  pwd
+  292  cd Programming/
+  293  ls
+  294  cd umuzi/
+  295  ls
+  296  node task9.js
+  297  history
+  298  sudo apt update && sudo apt upgrade
+  299  systemctl poweroff
+  300  cd Programming/
+  301  ls
+  302  cd umuzi/
+  303  ls
+  304  touch task10.js
+  305  node task10.js
+  306  touch task4.js
+  307  node task4.js
+  308  cd Programming/
+  309  ls
+  310  cd umuzi/
+  311  ls
+  312  node task10.js
+  313  history 
+  314  node task10.js
+  315  systemctl poweroff
+  316  git remote
+  317  ls
+  318  cd Programming/
+  319  ls
+  320  cd my-repos-top/
+  321  ls
+  322  cd odin-recipes/
+  323  git remote
+  324  cd
+  325  pwd
+  326  cd Programming/umuzi/
+  327  ls
+  328  mkdir bash
+  329  ls
+  330  cd bash
+  331  ls
+  332  ls /
+  333  touch question_1.md
+  334  ls
+  335  touch question_2.md
+  336  ls
+  337  touch question_3.md
+  338  touch question_4.md
+  339  touch question_5.md
+  340  touch question_6.md
+  341  touch question_7.md
+  342  touch question_8.md
+  343  touch question_9.md
+  344  touch question_10.md
+  345  touch question_11.md
+  346  touch question_12.md
+  347  touch question_13.md
+  348  history 
+  349  systemctl poweroff
+  350  ls
+  351  cd Programming/
+  352  ls
+  353  mkdir git-practice
+  354  cd git-practice/
+  355  mkdir my-project
+  356  ls
+  357  git init
+  358  touch index.html
+  359  ls
+  360  -i mv index.html my-project/
+  361  mv -i index.html my-project/
+  362  ls
+  363  cd my-project/
+  364  ls
+  365  git status
+  366  cd ..
+  367  git status
+  368  git init
+  369  cd my-project/
+  370  git status
+  371  git init
+  372  ls
+  373  git status
+  374  git add index.html
+  375  git status
+  376  touch README.md
+  377  ls
+  378  git status
+  379  touch styles.css
+  380  git status
+  381  git add --all
+  382  git status
+  383  git commit -m "feat: first release of Hello World!"
+  384  git status
+  385  git status --short
+  386  history 
+  387  git commit -a -m "chore: update index.html with a new line"
+  388  git status
+  389  git log
+  390  git commit -help
+  391  git commit --help
+  392  git help --all
+  393  git branch hello-world-images
+  394  git status
+  395  git branch
+  396  git checkout hello-world-images
+  397  git branch
+  398  git status
+  399  git add -A
+  400  git status
+  401  git commit -m "feat: add image to Hello World"
+  402  git status
+  403  ls
+  404  cat index.html 
+  405  git branch 
+  406  git checkout main
+  407  ls
+  408  git status
+  409  cat index.html 
+  410  history 
+  411  git checkout -b emergency-fix
+  412  git branch 
+  413  cd Programming/
+  414  ls
+  415  cd git-practice/
+  416  ls
+  417  cd my-project/
+  418  ls
+  419  git branch 
+  420  cat index.html 
+  421  git status
+  422  git add index.html 
+  423  git status
+  424  git commit -m "chore: update index.html with emergency fix"
+  425  git status
+  426  git branch
+  427  git checkout main
+  428  git branch
+  429  git merge emergency-fix 
+  430  git branch
+  431  git status
+  432  git branch -d emergency-fix
+  433  git branch
+  434  git checkout hello-world-images 
+  435  ls
+  436  git status
+  437  git add -A
+  438  git status
+  439  git commit -m "feat: add new-img.jpg"
+  440  cat index.html 
+  441  git branch 
+  442  git checkout main
+  443  cat index.html 
+  444  git merge hello-world-images 
+  445  git status
+  446  git add index.html 
+  447  git status
+  448  git commit -m "fix: merge hello-world-images into main after fixing conflict"
+  449  git status
+  450  git branch -d hello-world-images
+  451  history 
+  452  systemctl poweroff
+  453  ls
+  454  cd Programming/
+  455  ls
+  456  cd git-practice/
+  457  ls
+  458  cd my-project
+  459  ls
+  460  git clone git@github.com:DevNdamase/hello-world.git
+  461  git status
+  462  git remote -v
+  463  git add .
+  464  git rm --cached hello-world
+  465  git status
+  466  cd Programming/
+  467  ls
+  468  cd git-practice/
+  469  ls
+  470  cd my-project/
+  471  ls
+  472  cd hello-world
+  473  ls
+  474  cd ..
+  475  rm -r hello-world/
+  476  ls
+  477  git status
+  478  git rm hello-world 
+  479  git status
+  480  ls
+  481  git remote add origin git@github.com:DevNdamase/hello-world.git
+  482  git push -u origin main
+  483  git fetch origin
+  484  git merge origin/main
+  485  git fetch origin
+  486  git merge origin/main
+  487  git merge origin/main --allow-unrelated-histories
+  488  git commit -m "chore: merge remote-tracking branch 'origin/main' into main"
+  489  git status
+  490  git merge origin/main
+  491  git merge origin/main --allow-unrelated-histories
+  492  git status
+  493  git add README.md 
+  494  git status
+  495  git commit -m "chore: merge remote-tracking branch 'origin/main' into main"
+  496  git status
+  497  git push origin main
+  498  history 
+  499  cd
+  500  systemctl poweroff
+  501  history 
+  502  sudo apt update && sudo apt upgrade
+  503  cd Programming/
+  504  ls
+  505  cd git-practice/
+  506  ls
+  507  cd my-project/
+  508  ls
+  509  git fetch origin
+  510  git status
+  511  git fetch origin
+  512  git status
+  513  git fetch origin
+  514  git status
+  515  git log origin/main
+  516  git diff origin/main
+  517  git merge origin/main
+  518  git status
+  519  history 
+  520  git status
+  521  git log origin/main
+  522  git status
+  523  git pull origin
+  524  git pull origin/main
+  525  git pull origin
+  526  git pull origin main
+  527  git status
+  528  cd
+  529  ls
+  530  cd Programming/
+  531  ls
+  532  cd umuzi/
+  533  ls
+  534  mkdir git-basic-exercises
+  535  ls -a
+  536  cd git-basic-exercises/
+  537  ls
+  538  ls -a
+  539  git init
+  540  ls -a
+  541  git status
+  542  touch touch README.md
+  543  git status
+  544  history 
+  545  git status
+  546  git add README.md
+  547  git status
+  548  git rm --cached README.md
+  549  git status
+  550  git add README.md
+  551  git status
+  552  git commit -m "feat: initial commit"
+  553  q
+  554  git log
+  555  git status
+  556  vim README.md 
+  557  git status
+  558  cat README.md 
+  559  git status
+  560  git add README.md -m "feat: second commit"
+  561  git add README.md
+  562  git status
+  563  git commit -m "feat: second commit"
+  564  git status
+  565  vim README.md 
+  566  git status
+  567  git add README.md
+  568  git status
+  569  git commit -m "chore: third commit"
+  570  git status
+  571  git log
+  572  git checkout 4f5a1bfff31ec753d8012688f0b21b2de079a48f
+  573  cat README.md
+  574  git checkout main
+  575  git branch
+  576  git branch milkshake-flavours
+  577  git status
+  578  git branch
+  579  git checkout milkshake-flavours 
+  580  git branch
+  581  vim milkshakes.md
+  582  git status
+  583  git add milkshakes.md 
+  584  git commit -m "feat: add initial milkshake flavours"
+  585  git log
+  586  git checkout main 
+  587  git branch
+  588  git checkout history
+  589  git checkout -b history
+  590  git log
+  591  git branch
+  592  history > history.txt
