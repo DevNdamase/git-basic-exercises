@@ -6,5 +6,3 @@ to become proficient in version control and collaboration.
 
 Learning how to commit changes to a repo.
 Adding a new line.
-
-booya
