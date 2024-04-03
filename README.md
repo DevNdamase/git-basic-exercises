@@ -7,8 +7,6 @@ to become proficient in version control and collaboration.
 
 ---
 
-![Network Graph Image](network-graph.png)
-
 # I learnt the following:
 
 **From this exercise, I learnt the following**:
