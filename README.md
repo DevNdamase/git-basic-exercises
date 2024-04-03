@@ -7,8 +7,6 @@ to become proficient in version control and collaboration.
 
 ---
 
-![Network Graph Image](network-graph.png)
-
 # I learnt the following:
 
 **From this exercise, I learnt the following**:
@@ -26,8 +24,9 @@ to become proficient in version control and collaboration.
 
 **To practice branch merging, I have**:
 
--   merged milkshake-flavours into main,
--   merge history into main
+-   merged milkshake-flavours into main
+-   merged the main branch into history
+-   merged history into main
 
 **I created gitignore file**:
 
